@@ -1,0 +1,53 @@
+# TCM Fette A–Z – Eigenschaften & Wirkungen von Fetten, Ölen und fettreichen Lebensmitteln nach der Traditionellen Chinesischen Medizin
+
+Übersicht über **27 Fette, Öle und fettreiche Lebensmittel** – Speiseöle und Butter, Nüsse, Samen und Kerne, Avocado und Oliven sowie Kokosmilch – mit ihren **Eigenschaften** und **TCM Wirkungen** (inkl. Indikationen, Anwendungshinweisen und Stärke der Wirkung) nach der Traditionellen Chinesischen Medizin.
+
+🌐 **Live:** https://zagathou.github.io/tcm-fette/
+
+## Inhalt
+
+- Alle Einträge alphabetisch von A bis Z auf einer Seite, mit A–Z-Sprungliste und Sprungliste nach Kategorie
+- Pro Eintrag: Name, Kategorie, lateinischer Name und weitere Namen (sofern auf therapeutika.ch vorhanden), Eigenschaften, TCM Wirkungen mit Stärke (1 = stark, 2 und höher = schwächer) und Indikationen
+- Fehlende Angaben sind als „keine Angaben auf therapeutika.ch“ markiert
+
+### Enthaltene Lebensmittel
+
+- **Fette & Öle:** Butter (Kuh), Distelöl, Kokosfett, Kürbiskernöl, Leinöl, Maiskeimöl, Olivenöl, natives (kaltgepresst), Rapsöl, Sesamöl, Sojaöl, Sonnenblumenöl
+- **Nüsse, Samen & Kerne:** Baumnuss, Cashewkerne, Erdnuss, Haselnuss, Kokosnussfleisch, Kürbiskerne, Leinsamen, Mandeln, Pinienkerne, Pistazie, Sesam, Sonnenblumenkerne
+- **Fettreiche Früchte:** Avocado, Olive, grün, Olive, schwarz
+- **Sonstige:** Kokosmilch
+
+## Für KI und Maschinen lesbar
+
+- Sauberes, semantisches HTML (`main`, `article`, `h1`–`h4`, Listen), alle Inhalte als Text im DOM
+- Strukturierte Daten als JSON-LD (`CollectionPage` mit `ItemList`)
+- [`llms.txt`](https://zagathou.github.io/tcm-fette/llms.txt): Kurzüberblick über die Seite
+- [`llms-full.txt`](https://zagathou.github.io/tcm-fette/llms-full.txt): alle Einträge als reiner Text
+- `robots.txt` erlaubt alle Crawler (inkl. KI-Crawler), `sitemap.xml` vorhanden
+
+## Technik
+
+Eine einzelne, statische `index.html` – nur HTML und CSS, **kein JavaScript** (nur strukturierte Daten als JSON-LD). Schriften: Comfortaa und Nunito (Google Fonts). Farbschema angelehnt an [freyna.org](https://freyna.org/). Gehostet mit GitHub Pages.
+
+## Quelle
+
+Alle Eigenschaften und TCM Wirkungen stammen von **[therapeutika.ch](https://www.therapeutika.ch/)** (Stand: 29.09.2026). Die Texte wurden unverändert übernommen.
+
+## Hinweis
+
+Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
+
+## Weitere Seiten
+
+- [TCM Gewürze](https://zagathou.github.io/tcm-gewuerze/)
+- [TCM Proteine](https://zagathou.github.io/tcm-proteine/)
+- [TCM Kohlenhydrate](https://zagathou.github.io/tcm-kohlenhydrate/)
+- [TCM Heilkräuter](https://zagathou.github.io/tcm-heilkraeuter/)
+
+## Kontakt
+
+- Name: Christian Grigoriadis (Künstlername: Zagathou)
+- E-Mail: [xelotath@outlook.de](mailto:xelotath@outlook.de)
+- Session-ID: `055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173`
+- Website: [freyna.org](https://freyna.org/)
+- GitHub: [github.com/Zagathou](https://github.com/Zagathou)

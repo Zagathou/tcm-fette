@@ -1,0 +1,754 @@
+# TCM Fette – Eigenschaften und Wirkungen von Fetten, Ölen und fettreichen Lebensmitteln nach der Traditionellen Chinesischen Medizin
+
+Quelle: therapeutika.ch (https://www.therapeutika.ch/) – Texte unverändert übernommen. Stand: 29.09.2026.
+Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
+Webseite: https://zagathou.github.io/tcm-fette/
+Zahl vor jeder Wirkung = Stärke laut therapeutika.ch (1 = stark, 2 und höher = schwächer).
+27 Einträge, alphabetisch. Nach jedem Eintrag folgen Kategorie, Latein/weitere Namen (falls vorhanden) und Quell-URL.
+
+---
+
+AVOCADO:
+Eigenschaften
+cardioprotektiv / herzschützend, Schleimhäute schützend
+
+TCM Wirkungen
+1 Yin tonisieren
+Lungentrockenheit, Schleimhautschädigung, Haut welk, Haut trocken (äusserlich als Creme), Stillzeit, Gehirn nährend, Neurasthenie, Nervenschwäche, Nervosität
+
+1 Blut tonisieren
+Anämie, Blutmangel, Schwangerschaft, tonisiert Leber-Blut
+
+1 Darm befeuchten
+Obstipation, Verstopfung trocken, Dickdarmtrockenheit, Darmperistaltik verlangsamt
+
+2 Qi regulieren und bewegen
+Leber-Qi Stagnation, Reizbarkeit, depressive Verstimmung
+
+2 Essenz/Jing tonisieren
+Unfruchtbarkeit, Infertilität, Alterung vorzeitig
+
+2 Hitze eliminieren, die durch Yin-Mangel verursacht wird
+Magengeschwür, Gastritis, Magenschleimhautentzündung, Geschwür (äusserlich)
+
+2 Nässe/Feuchtigkeit auflösen/transformieren
+Cholesterinwert erhöht, Cholesterin LDL senkend, Arteriosklerose-Prophylaxe
+
+2 Qi tonisieren
+Hyperglykämie, Hypoglykämie, Unterzuckerung, Blutzuckerschwankung
+
+Kategorie: Fettreiche Früchte (therapeutika.ch: Nahrungsmittel, Gemüse)
+Latein: Persea americana · Deutsch: Butterfrucht
+Quelle: https://www.therapeutika.ch/Avocado
+
+---
+
+BAUMNUSS:
+Eigenschaften
+blutverdünnend, gefässerweiternd, Cholesterinneubildung verhindernd, Cholesterinaufnahme hemmend, koronares Erkrankungsrisiko senkend, senkend LDL
+
+TCM Wirkungen
+1 Yang tonisieren
+tonisiert Nieren-Yang, Lumbago, Rückenschwäche, Rückenschmerzen, Hüftschwäche, Hüftschmerzen, Kniegelenkschwäche, Knieschmerzen, kalter Rücken, Urinieren häufig, Impotenz
+
+1 Qi tonisieren
+tonisiert Lungen-Qi, tonisiert Nieren-Qi, tonisiert Herz-Qi, Kurzatmigkeit, Asthma, Atmung keuchend, Husten, Niesen, Ejakulation vorzeitig, Spermatorrhö, Ausfluss weisser, Leukorrhö, Enuresis, Urinieren nächtlich
+
+1 Essenz/Jing tonisieren
+Impotenz, Unfruchtbarkeit, Infertilität, Schwäche geistig, Zellbildung vermindert, Wundheilung schlecht, Nervosität, Stoffwechselstörungen der Nervenzellen
+
+2 Blut bewegen
+Herzinfarkt-Prophylaxe, Blutgerinnungsneigung, Arterienverengung, Thrombose-Prophylaxe
+
+2 Blut tonisieren
+Anämie, Blutmangel, Haut trocken
+
+2 Nässe/Feuchtigkeit auflösen/transformieren
+Cholesterinwert erhöht, Cholesterin LDL senkend, Arteriosklerose-Prophylaxe
+
+2 Darm befeuchten
+Obstipation, Verstopfung trocken
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Juglans regia · Deutsch: Walnusskerne
+Quelle: https://www.therapeutika.ch/Baumnuss
+
+---
+
+BUTTER (KUH):
+Eigenschaften
+ist leicht verdaulich
+
+TCM Wirkungen
+1 Yin tonisieren
+Trockenheit, Husten unproduktiv, Blut im Sputum, Schleimhauterkrankungen im Atemtrakt, Obstipation, Verstopfung trocken, Haut welk, Haut trocken, Haut rissig, Krätze, Effloreszenz, Mundgeschwür, Durst, Nachtschweiss, Erschöpfung, Auszehrung, Diabetes mellitus, Morbus Alzheimer
+
+2 Qi tonisieren
+tonisiert Nieren-Qi, Kraftlosigkeit, Müdigkeit, Abgeschlagenheit geistig, Energiemangel, Erschöpfung, Überanstrengung, Abwehrschwäche, Infektanfälligkeit, Immunschwäche, tonisiert Wei-Qi
+
+2 Blut tonisieren
+tonisiert Leber-Blut, Haut trocken, Haut rissig, Krätze, Effloreszenz, Schwindel, Sicht verschwommen
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Quelle: https://www.therapeutika.ch/Butter+%28Kuh%29
+
+---
+
+CASHEWKERNE:
+Eigenschaften
+nervenstärkend, cardioprotektiv, Cholesterinspiegel senkend, stimmungshebend (durch Tryptophan)
+
+TCM Wirkungen
+1 Inneren Wind unterdrücken
+Muskelkrämpfe in den Hohlorganen, Gallenkolik, Uteruskrämpfe, Menstruationskrämpfe, Darmspasmen, Reizdarm, Angina pectoris, Arterienverengung, Migräne
+
+1 Shen/Geist beruhigen
+Nervosität, Reizbarkeit, Unruhe, Insomnia, Schlaflosigkeit, Depressionen
+
+1 Yin tonisieren
+Nervosität, Reizbarkeit, Unruhe, Insomnia, Schlaflosigkeit, Lungentrockenheit, Husten
+
+2 Qi tonisieren
+tonisiert Milz-Qi, Appetitlosigkeit, Müdigkeit, Abgeschlagenheit, Energiemangel, Erschöpfung, Kraftlosigkeit
+
+2 Darm befeuchten
+Obstipation, Verstopfung trocken
+
+2 Nässe/Feuchtigkeit auflösen/transformieren
+Arteriosklerose-Prophylaxe
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Anacardium occidentale · Deutsch: Cashewnuss
+Quelle: https://www.therapeutika.ch/Cashewkerne
+
+---
+
+DISTELÖL:
+Eigenschaften
+befeuchtend, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Yin tonisieren
+Zellbildung vermindert, Gehirn nährend
+
+1 Darm befeuchten
+Obstipation, Verstopfung trocken, Stuhl hart
+
+2 Nässe/Feuchtigkeit auflösen/transformieren
+Cholesterinwert erhöht, Cholesterin LDL senkend, Arteriosklerose-Prophylaxe, Herzkreislauf-Prophylaxe
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Latein: Olea carthamus tinktorius Öl
+Quelle: https://www.therapeutika.ch/Distel%C3%B6l
+
+---
+
+ERDNUSS:
+Eigenschaften
+befeuchtend
+
+TCM Wirkungen
+1 Qi tonisieren
+tonisiert Milz-Qi, tonisiert Magen-Qi, schwäche der Mitte, Verdauungsschwäche, Gewichtsverlust, Appetitlosigkeit
+
+2 Darm befeuchten
+Stuhltrockenheit, Obstipation, Verstopfung
+
+2 Yin tonisieren
+Lungentrockenheit, Husten trocken (15 g Erdnussmuss und 15 g Mandelmuss mit Honig mischen; in heissem Wasser aufgelöst einnehmen), Haut trocken, Hautrötung, Haut rissig, Schleimhauterkrankungen
+
+2 Blut tonisieren
+Anämie, Blutmangel postpartum, Laktationsmangel, Milchbildungsmangel
+
+3 Blutungen stillen und regulieren
+Hämophilie, Bluterkrankheit, Hämaturie, Blut im Urin, Zahnfleischbluten, Epistaxis, Nasenbluten, Magenblutung, Darmblutung, Gebärmutterblutung (Erdnüsse inklusive dünnes Häutchen oder Tee aus braunem Häutchen), Bluthochdruck, Hypertonie (Tee aus biologischen Erdnuss-Schalen kochen)
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Arachis hypogaea
+Quelle: https://www.therapeutika.ch/Erdnuss
+
+---
+
+HASELNUSS:
+Eigenschaften
+cardioprotektiv / herzschützend, Gesamtcholesterin senkend
+
+TCM Wirkungen
+1 Qi tonisieren
+tonisiert Milz-Qi, tonisiert Magen-Qi, Durchfall chronisch, Diarrhö, Durchfall, Appetitlosigkeit, Gewichtsverlust, Untergewicht, Müdigkeit, Abgeschlagenheit, Energiemangel, Erschöpfung, Kraftlosigkeit, Schwangerschaftsübelkeit (Tee aus ganzen Nüssen) Enuresis, Bettnässen (10 Haselnüsse vor dem Schlafengehen essen)
+
+1 Blut tonisieren
+tonisiert Leber-Blut, Sehschwäche, Haarausfall (Haselnussöl äusserlich einreiben), Anämie aus Blutbildungsmangel im Knochenmark, Blutmangel
+
+2 Nässe/Feuchtigkeit auflösen/transformieren
+Nephrolithiasis-Prophylaxe, Nierenstein-Prophylaxe, Uratstein, Nephrolithiasis, Nierensteine, Arteriosklerose, Cholesterinwert erhöht, Cholesterin LDL senkend, Herzerkrankungs-Prophylaxe, Herzkreislauf-Prophylaxe
+
+2 Blut bewegen
+Thrombose-Prophylaxe
+
+2 Yin tonisieren
+tonisiert Nieren-Yin, Nachtschweiss, Gehirn nährend, Gewichtsverlust, Untergewicht
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Corylus avellana
+Quelle: https://www.therapeutika.ch/Haselnuss
+
+---
+
+KOKOSFETT:
+Eigenschaften
+befeuchtend
+
+TCM Wirkungen
+1 Yin tonisieren
+Trockenheit, Gewichtsverlust, Auszehrung
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Latein: Cocos nucifera (Fett) · Deutsch: Kokosöl
+Quelle: https://www.therapeutika.ch/Kokosfett
+
+---
+
+KOKOSMILCH:
+Eigenschaften
+erfrischend, Säfte erzeugend, durststillend, abschwellend
+
+TCM Wirkungen
+1 Yin tonisieren
+Zahnen der Kinder, Zahnschmelzrückgang, Trockenheit, Durst, Spermienbildung reduziert
+
+1 Hitze eliminieren, die durch Yin-Mangel verursacht wird
+Magen-Hitze, Magentrockenheit, Durst, Mundtrockenheit, Unruhe, Mundgeschwür, Aphte, Zystitis, Blasenentzündung, Nephritis, Nierenentzündung, Miktion erschwert, Miktion schmerzhaft
+
+1 Sommerhitze eliminieren
+Durst (Kokoswasser frisch)
+
+2 Qi tonisieren
+tonisiert Nieren-Qi, Ödeme durch Herzschwäche, Herzinsuffizienz, Diabetes mellitus, Gedunsenheit (Kokoswasser frisch)
+
+2 Blut tonisieren
+Haarwuchsmangel, Nägel brüchig
+
+Kategorie: Sonstige (therapeutika.ch: Nahrungsmittel, Milchprodukte)
+Quelle: https://www.therapeutika.ch/Kokosmilch
+
+---
+
+KOKOSNUSSFLEISCH:
+Eigenschaften
+aufbauend, fördert die Bildung von Zahnschmelz
+
+TCM Wirkungen
+1 Yin tonisieren
+Osteoporose, Knochenschwund, Knorpeldegeneration, Knochendegeneration, Knochenschwund, Zahnzerfall, Zahnschmelzrückgang, Karies, Rückenschmerzen
+
+1 Blut tonisieren
+Haarwuchsmangel, Nägel brüchig
+
+2 Qi tonisieren
+tonisiert Milz-Qi, Untergewicht
+
+3 Inneren Wind unterdrücken
+Reizbarkeit nervlich bedingt, Nervosität, Muskelkrämpfe
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Cocos nucifera
+Quelle: https://www.therapeutika.ch/Kokosnussfleisch
+
+---
+
+KÜRBISKERNE:
+Eigenschaften
+prostatatrop, Phytosterole wirken antiinflammatorisch / entzündungshemmend, antioxidativ, diuretisch / harntreibend, normalisiert und kräftigt Blasenmuskelschwäche, löst sekundär Blutansammlungen in der Prostata
+
+TCM Wirkungen
+1 Nässe ausleiten und Diurese fördern
+Prostataschwellung, Strangurie, Harndrang schmerzhaft, Dysurie, Urinieren erschwert, Urinieren tröpfelnd, Miktionsstörungen, Prostataadenom, Prostatahyperplasie, Prostatahypertrophie, Prostatavergrösserung, Prostata-Adenom, Ödeme, Reizblase, Reizblase psychosomatisch, Bindegewebeveränderung
+
+1 Qi tonisieren
+Bindegewebeschwäche, Muskelschwäche, Harninkontinenz, Blasenschwäche, Schwäche sexuell, Frühgeburtneigung, Muskelatrophie
+
+2 Qi regulieren und bewegen
+Leber Qi-Stagnation, Sphinktermuskulaturverspannung, Blutansammlungen in der Prostata, Hämorrhoiden (Dosis darf nicht zu gering sein), Herzkreislauferkrankungen
+
+2 Nässe/Feuchtigkeit und Hitze ausleiten
+Cholesterinwert erhöht, Entzündung, Harnwegsentzündung
+
+3 Parasiten eliminieren
+Würmer, Bandwurm, Rundwürmer (200-400 g mit Honig gemischt morgens nüchtern essen; 23 Stunden danach Rhizinusöl; einnehmen der Bandwurm wird gelähmt; kann nicht mehr an der Darmwand haften und dann abgeführt)
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Cucurbita pepo (spezielle Sorten)
+Quelle: https://www.therapeutika.ch/K%C3%BCrbiskerne
+
+---
+
+KÜRBISKERNÖL:
+Eigenschaften
+Phytosterole (Squalen) wirken antiinflammatorisch / entzündungshemmend, antioxidativ, diuretisch / harntreibend, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Nässe ausleiten und Diurese fördern
+Miktion schmerzhaft, Prostataschwellung, Prostataadenom, Prostatahyperplasie, Prostatahypertrophie, Prostatavergrösserung, Reizblase, Reizblase psychosomatisch
+
+1 Nässe/Feuchtigkeit und Hitze ausleiten
+Cholesterinwert erhöht, Herzkreislauferkrankungen, Prostatitis, Prostataentzündung, Reizblase
+
+2 Darm befeuchten
+Obstipation, Verstopfung trocken, Stuhl hart
+
+2 Qi regulieren und bewegen
+Leber-Qi Stagnation, Blasenwandmuskelspannung, Blasenschliessmuskelspannung, Prostataspannung, Prostatopathie
+
+2 Qi tonisieren
+Muskelschwäche, Bindegewebeschwäche, Frühgeburtneigung, Muskelatrophie
+
+2 Yin tonisieren
+Neurasthenie, Nervenschwäche, Zellbildung vermindert, Obstipation, Verstopfung trocken
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Latein: Olea curcubita spec. Öl
+Quelle: https://www.therapeutika.ch/K%C3%BCrbiskern%C3%B6l
+
+---
+
+LEINÖL:
+Eigenschaften
+gefässerweiternd, erweichend, antiinflammatorisch / entzündungshemmend, kühlend, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Nässe/Feuchtigkeit auflösen/transformieren
+Herzerkrankungs-Prophylaxe, Kreislauferkrankungs-Prophylaxe, Bluthochdruck, Hypertonie, Cholesterinwert erhöht, Cholesterin LDL senkend, Triglyzeridwert erhöht, Arteriosklerose-Prophylaxe, Krebs-Prophylaxe, Gallenflussstau, Blutviskosität vermindernd
+
+1 Darm befeuchten
+Obstipation, Verstopfung, Stuhl hart
+
+1 Blut bewegen
+Thrombose-Prophylaxe, Schlaganfall-Prophylaxe, Arterienverengung
+
+2 Qi regulieren und bewegen
+Bluthochdruck, Hypertonie, Bluthochdruck diastolischer, Herzrhythmusstörungen
+
+2 Qi tonisieren
+tonisiert Milz-Qi, Diabetes mellitus, Verdauungsschwäche, Flatulenz, Blähungen, Darmflorastörungen
+
+2 Yin tonisieren
+Magenschleimhautreizung, Darmschleimhautschädigung, Morbus Crohn, Haut trocken, Schleimhauttrockenheit, Heiserkeit, Lungenerkrankungen chronisch obstruktive, Ekzem trocken, Neurodermitis, Hautalterung vorzeitig
+
+2 Schleim auflösen/transformieren
+Asthma, Husten, Bronchialkatarrh, Arthrose
+
+2 Wind-Kälte/Hitze-Nässe eliminieren (Rheuma/Bi-Syndrom)
+Rheuma, Arthrose, Sehnenversteifung, Knorpeldegeneration (äusserlich anwenden)
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Latein: Olea linum usitatissimum Öl
+Quelle: https://www.therapeutika.ch/Lein%C3%B6l
+
+---
+
+LEINSAMEN:
+Eigenschaften
+laxierend / abführend, schleimbildend, antiinflammatorisch / entzündungshemmend, cardioprotektiv / herzschützend, Abwehrenergie tonisierend durch Darmfloraaufbau, macht den Stuhl gleitfähig, Cholesterin LDL senkend, Cholesterin HDL erhöhend, Östrogenbildung anregend, Phytoöstrogene verlängern die luteale Phase im Mensturationszyklus
+
+TCM Wirkungen
+1 Darm befeuchten
+Obstipation, Verstopfung chronisch, Stuhl hart, Darmperistaltik verlangsamt (vor jedem Essen einen Mokkalöffel ganz gut zerkauen und schlucken oder in Wasser gequollen längerfristig über viele Wochen und Monate einnehmen)
+
+1 Hitze eliminieren, die durch Yin-Mangel verursacht wird
+Magenschmerzen, Gastralgie, Magenbrennen, Gastritis, Magenschleimhautentzündung, Magengeschwür, Mundtrockenheit, Zungentrockenheit, Zungenrisse, Zahnfleischbluten, Colitis, Enteritis, Darmentzündung, Colon irritabile, Divertikulitis, Darmschleimhautschädigung durch Abführmittel (Leinsamen intensiv zerkauen und schlucken oder gequollen einnehmen)
+
+1 Yin tonisieren
+Menstruationsblutung verfrüht, Menstruationszyklusschwankung, Wechseljahrbeschwerden, Klimakterium, Menopausensyndrom (10 g oder 1 gestrichener EL während 3 Monaten täglich einnehmen), Husten trocken, Reizhusten
+
+2 Nässe/Feuchtigkeit auflösen/transformieren
+Erkrankungen degenerative, Krebs-Prophylaxe, Dickdarmkrebs, Brustkrebs, Prostatakrebs, Cholesterinwert erhöht
+
+2 Qi tonisieren
+tonisiert Wei-Qi, Abwehrschwäche, Infektanfälligkeit, Immunschwäche, Darmflorastörungen, Dysbakterie, Erkrankungen degenerative, Blutzuckerschwankung, Hypoglykämie, Unterzuckerung (Leinsamenmehl zu 25% in Brot eingebacken)
+
+2 Hitze eliminieren und Feuer reduzieren
+Verbrennung (ganzen Leinsamen mit Wasser kochen; den Schleim durch ein Sieb streichen; Leinentuch damit bestreichen und auf die Verbrennung legen; zum Feuchthalten mit Plastik abdecken)
+
+2 Hitze eliminieren und Blut kühlen
+Psoriasis, Schuppenflechte, Hauterkrankungen (äusserliche Anwendung: Leinsamen schroten mit Wasser kochen auf ein Leinentuch aufstreichen und auflegen)
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Heilkräuter, Samen / Nüsse / Kerne)
+Latein: Linum usitatissimum · Deutsch: Flachs echter · Pharmazeutisch: Lini semen
+Quelle: https://www.therapeutika.ch/Leinsamen
+
+---
+
+MAISKEIMÖL:
+Eigenschaften
+cardioprotektiv / herzschützend, antioxidativ, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Yin tonisieren
+Neurasthenie, Nervenschwäche, Gehirn nährend, Zellbildung vermindert, Wundheilung schlecht, Heiserkeit, Haut trocken, Haut rissig, Haut rau, Schwangerschaftsstreifen (äusserlich anwenden)
+
+1 Qi tonisieren
+tonisiert Milz-Qi
+
+1 Nässe/Feuchtigkeit auflösen/transformieren
+Bluthochdruck, Hypertonie, Cholesterinwert erhöht, Cholesterin LDL senkend, Arteriosklerose-Prophylaxe, Herzkreislauf-Prophylaxe
+
+2 Darm befeuchten
+Stuhl hart, Obstipation, Verstopfung trocken
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Latein: Zea mays, Öl
+Quelle: https://www.therapeutika.ch/Maiskeim%C3%B6l
+
+---
+
+MANDELN:
+Eigenschaften
+nährend, leicht adstringierend / zusammenziehend
+
+TCM Wirkungen
+1 Yin tonisieren
+Lungentrockenheit, Pertussis, Keuchhusten, Husten trocken, Asthma (15 g Mandeln; 15 g Walnüsse; zusammen leicht anrösten und fein zermahlen mit Honig oder Zucker abschmecken. 3 Portionen in heissem Wasser auflösen und einnehmen), Depressionen, Nervosität, Nervengewebemangel, Knochenwachstumsstörungen, Osteoporose, Knochenschwund
+
+2 Darm befeuchten
+Obstipation, Verstopfung trocken
+
+2 Qi regulieren und bewegen
+Aufstossen saures, Magenbrennen (10 Mandeln hintereinander bis zu Milch zerkauen)
+
+2 Qi tonisieren
+Muskelschwäche, Sehnenschwäche, Muskeltonus herabgesetzt, Herzschwäche, Schwangerschaft
+
+2 Blut tonisieren
+Laktationsmangel, Milchbildungsmangel
+
+3 Nässe/Feuchtigkeit auflösen/transformieren
+Cholesterinwert erhöht, Arteriosklerose-Prophylaxe
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Prunus dulcis
+Quelle: https://www.therapeutika.ch/Mandeln
+
+---
+
+OLIVE, GRÜN:
+Eigenschaften
+antioxidativ, entgiftend, Cholesterinoxidation wird verhindert, Gefässe schützend
+
+TCM Wirkungen
+1 Qi regulieren und bewegen
+Gallenflussstau, Gallenblasenträgheit, Gallensteine, Magensäuremangel
+
+1 Nässe/Feuchtigkeit auflösen/transformieren
+Cholesterinwert erhöht
+
+2 Qi tonisieren
+Appetitlosigkeit
+
+2 Yin tonisieren
+Säftemangel, Trockenheit, Durst, Heiserkeit, Husten trocken, Blut im Sputum
+
+3 Darm befeuchten
+Dickdarmtrockenheit
+
+3 Hitze eliminieren und Toxine ausleiten
+Toxine, entgiftet, Geschwür
+
+Kategorie: Fettreiche Früchte (therapeutika.ch: Verschiedenes, Nahrungsmittel)
+Latein: Olea europaea · Deutsch: Ölbaum, grün
+Quelle: https://www.therapeutika.ch/Olive_c_+gr%C3%BCn
+
+---
+
+OLIVE, SCHWARZ:
+Eigenschaften
+antioxidativ, cholagog / galletreibend, entgiftend, Cholesterinoxidation wird verhindert, Gefässe schützend
+
+TCM Wirkungen
+1 Yin tonisieren
+Säftemangel, Trockenheit, Durst, Heiserkeit, Husten, Blut im Sputum
+
+1 Qi regulieren und bewegen
+Gallenflussstau, Magensäuremangel, Gallenblasenträgheit, Gallensteine
+
+1 Nässe/Feuchtigkeit auflösen/transformieren
+Cholesterinwert erhöht
+
+2 Darm befeuchten
+Stuhltrockenheit, Obstipation, Verstopfung trocken (durch Öle und Ballaststoffe)
+
+3 Hitze eliminieren und Toxine ausleiten
+Toxine, entgiftet, Geschwür
+
+3 Qi tonisieren
+Appetitlosigkeit
+
+Kategorie: Fettreiche Früchte (therapeutika.ch: Verschiedenes, Nahrungsmittel)
+Latein: Olea europaea · Deutsch: Ölbaum, schwarz
+Quelle: https://www.therapeutika.ch/Olive_c_+schwarz
+
+---
+
+OLIVENÖL, NATIVES (KALTGEPRESST):
+Eigenschaften
+Olivenöl: schleimhautreizungsmildernd, erweichend, nährend, laxierend / abführend, antiinflammatorisch / entzündungshemmend, antioxidativ, gefässerweiternd, blutdrucksenkend, unterstützt Gewebewachstum mit hoher Zellteilungsrate, unterstützt schnell wachsende und regenerierende Gewebe und Blutzellen, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Yin tonisieren
+Zellbildung vermindert, Rachitis, Osteoporose-Prophylaxe, Knochenschwund-Prophylaxe, Knochendichte vermindert, Muskelschwäche, Sehnenschwäche, Sehnenscheidenentzündung (äusserlich), Neurasthenie, Nervenschwäche, Gehirn nährend, Alterung vorzeitig, Belastung geistig, Haut trocken, Schleimhauttrockenheit, Ekzem, Neurodermitis, Narbenbildung schlecht, Haut spröde, Haarschuppen, Haare spröde, Magenschleimhautreizung, Gastritis, Magenschleimhautatrophie, Aufstossen saures, Ulzera, Darmschleimhautschädigung
+
+1 Nässe/Feuchtigkeit auflösen/transformieren
+Herzerkrankungs-Prophylaxe, Kreislauferkrankungs-Prophylaxe, Bluthochdruck, Hypertonie, Herzinfarkt, Herzinfarkt-Prophylaxe, Cholesterinwert erhöht, Cholesterin LDL senkend, Cholesterin HDL erhöhend, Arteriosklerose-Prophylaxe, Thrombose-Prophylaxe, Krebs-Prophylaxe, Gallenflussstau, Blutviskosität vermindernd, Gallensteine, Adipositas, Übergewicht, Hornhauttrübung, Grauer Star
+
+1 Blut tonisieren
+tonisiert Leber-Blut, Nachtblindheit, Blässe, Knorpeldegeneration, Narbenbildung schlecht (äusserlich), Haut trocken, Schleimhauttrockenheit, Ekzem, Neurodermitis, Haut spröde, Haarschuppen, Haare spröde, Muskelschwäche, Sehnenschwäche, Sehnenscheidenentzündung, Laktationsmangel, Milchbildungsmangel
+
+1 Schleim auflösen/transformieren
+Gallenkolik, Gallensteine, Arteriosklerose, Hornhauttrübung, Katarakt, Grauer Star, Augenlinsentrübung
+
+2 Darm befeuchten
+Stuhl hart, Obstipation, Verstopfung trocken
+
+2 Qi tonisieren
+tonisiert Milz-Qi, Stoffwechselschwäche, Leberschwäche
+
+2 Wind-Kälte/Hitze-Nässe eliminieren (Rheuma/Bi-Syndrom)
+Gelenkschmerzen, Rheuma, Arthrose, Ischias, Gicht, Arthritis
+
+2 Nässe/Feuchtigkeit und Hitze ausleiten
+Leukorrhö, Herpes labialis, Herpes genitalis, Heliobacter pylori, Hautentzündung, Hornhaut mit tiefen Rissen (Olivenöl mit Meersalz mischen; täglich 5 Minuten einmassieren und anschliessend abwaschen)
+
+2 Hitze eliminieren, die durch Yin-Mangel verursacht wird
+Gastritis, Magenschleimhautentzündung, Magenübersäuerung, Parodontose, Zahnfleischentzündung (Ölziehen)
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Latein: Olea europaea Öl
+Quelle: https://www.therapeutika.ch/Oliven%C3%B6l_c_+natives+%28kaltgepresst%29
+
+---
+
+PINIENKERNE:
+Eigenschaften
+Nervengewebe aufbauend, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Blut tonisieren
+Anämie, Blutmangel, Eisenmangel
+
+1 Darm befeuchten
+Obstipation, Verstopfung trocken
+
+1 Yin tonisieren
+Lungentrockenheit, Säftemangel, Trockenheit, Husten trocken, Blut im Sputum, Nervengewebemangel, Stress, Niedergeschlagenheit
+
+2 Inneren Wind unterdrücken
+Schwindel, Leber-Wind, Benommenheit
+
+2 Wind-Kälte/Hitze-Nässe eliminieren (Rheuma/Bi-Syndrom)
+Rheuma, Taubheitsgefühl der Gelenke, Taubheitsgefühl der Leitbahnen, Blockade in den Leitbahnen
+
+3 Blut bewegen
+Blutstagnation
+
+3 Nässe/Feuchtigkeit auflösen/transformieren
+Cholesterinwert erhöht, Arteriosklerose-Prophylaxe
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Pinus pinea
+Quelle: https://www.therapeutika.ch/Pinienkerne
+
+---
+
+PISTAZIE:
+Eigenschaften
+antioxidativ, entgiftend, sedierend / beruhigend, unterstützt den ganzen Körper, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Blut tonisieren
+Anämie, Blutmangel, Eisenmangel
+
+1 Yin tonisieren
+Lungentrockenheit, Haut trocken, Husten trocken, Psoriasis, Schuppenflechte
+
+2 Darm befeuchten
+Obstipation, Verstopfung trocken
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Pistacia vera · Deutsch: Pimpernuss
+Quelle: https://www.therapeutika.ch/Pistazie
+
+---
+
+RAPSÖL:
+Eigenschaften
+cardioprotektiv / herzschützend, antioxidativ, Zellmembran vor Oxydation schützend, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Darm befeuchten
+Stuhl hart, Obstipation, Verstopfung trocken
+
+2 Nässe/Feuchtigkeit auflösen/transformieren
+Cholesterinwert erhöht, Triglyzeridwert erhöht, Arteriosklerose-Prophylaxe, Alterung vorzeitig, Tumor-Prophylaxe, Thrombose-Prophylaxe
+
+2 Yin tonisieren
+Rachitis-Prophylaxe, Schleimhautschädigung
+
+2 Wind-Kälte/Hitze-Nässe eliminieren (Rheuma/Bi-Syndrom)
+Schmerzen rheumatisch, Rheuma, Gelenkschmerzen, Arthritis
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Latein: Olea brassica napus Öl · Deutsch: Rüböl
+Quelle: https://www.therapeutika.ch/Raps%C3%B6l
+
+---
+
+SESAM:
+Eigenschaften
+antioxidativ, entgiftend
+
+TCM Wirkungen
+1 Essenz/Jing tonisieren
+Ergrauen frühzeitig, Osteoporose, Knochenschwund, Tinnitus, Unfruchtbarkeit, Infertilität, Spermien schwach
+
+1 Blut tonisieren
+Anämie, Blutmangel, Sehschwäche, Haarausfall, Laktationsmangel, Milchbildungsmangel, Schwindel, drehender, Benommenheit, Haut welk, Haare brüchig, Nägel brüchig, Taubheitsgefühl der Extremitäten
+
+1 Yin tonisieren
+tonisiert alle Yin-Organe, Säftemangel, Trockenheit, Insomnia, Schlaflosigkeit, Ergrauen frühzeitig, Knorpelbildung vermindert, Knochenschwäche, Zahnzerfall, Osteoporose, Knochenschwund, Wechseljahrbeschwerden, Menopausensyndrom, Klimakterium
+
+2 Qi tonisieren
+tonisiert Nieren-Qi, tonisiert Leber-Qi, tonisiert Milz-Qi, Müdigkeit, Abgeschlagenheit, Energiemangel, Erschöpfung, Belastung körperlich, Schwangerschaft, Stillzeit, Bindegewebeschwäche, Muskelschwäche, Gelenkschwäche, Neurasthenie, Nervenschwäche, Konzentrationsstörungen, Vergesslichkeit, Hyperglykämie, Abwehrschwäche, Infektanfälligkeit, Immunschwäche
+
+2 Darm befeuchten
+Obstipation, Verstopfung trocken
+
+2 Wind-Kälte/Hitze-Nässe eliminieren (Rheuma/Bi-Syndrom)
+Arthritis, Rheuma, Steifheit der Gelenke, Gelenkschwellung
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Sesamum indicum
+Quelle: https://www.therapeutika.ch/Sesam
+
+---
+
+SESAMÖL:
+Eigenschaften
+schleimhautreizungsmildernd, erweichend, nährend, laxierend / abführend, befeuchtend, cholesterinsenkend, antioxidativ, erweichend, antiinflammatorisch / entzündungshemmend, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Yin tonisieren
+Neurasthenie, Nervenschwäche, Gehirn nährend, Alterung vorzeitig, Ergrauen frühzeitig, Haut trocken, Schleimhauttrockenheit, Ekzem, Haut spröde, Haut trocken, Hautgeschwür, Magenschleimhautreizung, Darmschleimhautschädigung, Knochenwachstumsstörungen, Osteoporose, Knochenschwund, Sehnenschwäche, Nägel brüchig
+
+1 Darm befeuchten
+Stuhl hart, Obstipation, Verstopfung trocken, (Laxieren: 3-4 EL auf leeren Magen einnehmen)
+
+1 Nässe/Feuchtigkeit auflösen/transformieren
+Herzerkrankungs-Prophylaxe, Kreislauferkrankungs-Prophylaxe, Bluthochdruck, Hypertonie, Herzinfarkt Nachbehandlung, Cholesterinwert erhöht, Cholesterin LDL senkend, Cholesterin HDL erhöhend, Arteriosklerose-Prophylaxe, Thrombose-Prophylaxe
+
+2 Qi tonisieren
+tonisiert Milz-Qi, tonisiert Nieren-Qi, Verdauungsschwäche, Bauchschmerzen, Muskelschwäche, Sehnenschwäche
+
+2 Hitze eliminieren und Toxine ausleiten
+Krätze, Psoriasis, Schuppenflechte, Hautpilz (äusserlich angewendet dringt es tief in die Haut ein und kann schädliche Stoffe an die Oberfläche bringen; 1 x täglich Auftragen)
+
+2 Hitze eliminieren, die durch Yin-Mangel verursacht wird
+Magenschmerzen, Gastritis, Zahnfleischentzündung, Parodontose
+
+2 Wind-Kälte/Hitze-Nässe eliminieren (Rheuma/Bi-Syndrom)
+Schmerzen rheumatisch, Rheuma, Arthrose, Arthritis, Sehnenversteifung, Entzündung (äusserlich)
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Latein: Sesamum indicum Öl
+Quelle: https://www.therapeutika.ch/Sesam%C3%B6l
+
+---
+
+SOJAÖL:
+Eigenschaften
+cardioprotektiv / herzschützend, antioxidativ, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Yin tonisieren
+Zellbildung vermindert, Neurasthenie, Nervenschwäche, Gehirn nährend, Tremor, Bewegungsstörungen durch Nervenschädigung, Vergesslichkeit, Lernschwäche, Morbus Alzheimer, Demenz, Nervosität, Stress, Geschwür (äusserlich)
+
+1 Darm befeuchten
+Stuhl hart, Obstipation, Verstopfung
+
+1 Nässe/Feuchtigkeit auflösen/transformieren
+Bluthochdruck, Hypertonie, Cholesterinwert erhöht, Cholesterin LDL senkend, Arteriosklerose-Prophylaxe, Herzkreislauf-Prophylaxe
+
+2 Qi tonisieren
+Leberstoffwechselstörungen, Gallenblasenträgheit, Konzentrationsstörungen, Hepatitis chronisch, Abwehrschwäche, Infektanfälligkeit, Immunschwäche
+
+2 Schleim auflösen/transformieren
+Leberfibrosen-Prophylaxe, Leberzirrhose begleitend, Geschwür (äusserlich)
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Latein: Glycine hispida max.
+Quelle: https://www.therapeutika.ch/Soja%C3%B6l
+
+---
+
+SONNENBLUMENKERNE:
+Eigenschaften
+Gefässe schützend
+
+TCM Wirkungen
+1 Qi tonisieren
+tonisiert Milz-Qi, Appetitlosigkeit, Kraftlosigkeit, Diarrhö, Durchfall, Ruhr, Darmblutung, Herzschwäche, Kreislaufschwäche, Stoffwechselschwäche
+
+1 Yin tonisieren
+Gehirn nährend, Neurasthenie, Nervenschwäche, Gewichtsverlust, Knochenschwäche
+
+2 Darm befeuchten
+Obstipation, Verstopfung trocken
+
+2 Wind-Hitze eliminieren
+Masern, Exanthembildung fördernd bei Masern, Furunkel, Karbunkel (Tee kochen), Fieber
+
+2 Nässe/Feuchtigkeit auflösen/transformieren
+Cholesterinwert erhöht, Blutfettwerte erhöht, Arteriosklerose-Prophylaxe
+
+2 Blut tonisieren
+Hauterkrankungen, Haut rissig, Haut trocken, Anämie-Prophylaxe, Blutmangel-Prophylaxe, Nägel brüchig, Haare brüchig
+
+3 Blut bewegen
+Thrombose-Prophylaxe, Arterienverengung, Blutgerinnungsneigung
+
+3 Parasiten eliminieren
+Madenwürmer (250 g Kerne auf leeren Magen vor dem Schlafengehen)
+
+Kategorie: Nüsse, Samen & Kerne (therapeutika.ch: Nahrungsmittel, Samen / Nüsse / Kerne)
+Latein: Helianthus annuus
+Quelle: https://www.therapeutika.ch/Sonnenblumenkerne
+
+---
+
+SONNENBLUMENÖL:
+Eigenschaften
+cardioprotektiv / herzschützend, antioxidativ, entgiftend, macht den Stuhl gleitfähig
+
+TCM Wirkungen
+1 Yin tonisieren
+Neurasthenie, Nervenschwäche, Gehirn nährend, Zellbildung vermindert, Wundheilung schlecht, Heiserkeit
+
+1 Nässe/Feuchtigkeit auflösen/transformieren
+Bluthochdruck, Hypertonie, Toxine, entgiftet (Ölziehkur), Cholesterinwert erhöht, Cholesterin LDL senkend, Arteriosklerose-Prophylaxe, Herzkreislauf-Prophylaxe
+
+1 Qi tonisieren
+tonisiert Milz-Qi, Stoffwechselschwäche, Stoffwechselerkrankungen, Gallenblasenträgheit, Diabetes mellitus
+
+2 Darm befeuchten
+Stuhl hart, Obstipation, Verstopfung trocken
+
+2 Schleim auflösen/transformieren
+Bronchitis, Husten, Schnupfen, Schlaganfall-Prophylaxe
+
+2 Qi regulieren und bewegen
+Bluthochdruck systolischer, Bluthochdruck stressbedingter, Hypertonie
+
+Kategorie: Fette & Öle (therapeutika.ch: Nahrungsmittel, Fette / Öle)
+Latein: Olea helianthus annuus Öl
+Quelle: https://www.therapeutika.ch/Sonnenblumen%C3%B6l
+
+---
