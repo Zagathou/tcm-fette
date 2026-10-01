@@ -6,49 +6,49 @@ Eine einzelne statische Seite (https://zagathou.github.io/tcm-fette/) mit 27 Fet
 
 ## Dateien
 
-- [Webseite (HTML)](https://zagathou.github.io/tcm-fette/): alle Einträge als Karten, ohne JavaScript
-- [llms-full.txt](https://zagathou.github.io/tcm-fette/llms-full.txt): alle 27 Einträge als reiner Text
+- [WEBSEITE (HTML)](https://zagathou.github.io/tcm-fette/): alle Einträge als Karten, ohne JavaScript
+- [LLMS-FULL.TXT](https://zagathou.github.io/tcm-fette/llms-full.txt): alle 27 Einträge als reiner Text
 
 ## Einträge nach Kategorie
 
 ### Fette & Öle (11)
 
-- [Butter (Kuh)](https://zagathou.github.io/tcm-fette/#butter-kuh)
-- [Distelöl](https://zagathou.github.io/tcm-fette/#disteloel): Olea carthamus tinktorius Öl
-- [Kokosfett](https://zagathou.github.io/tcm-fette/#kokosfett): Cocos nucifera (Fett)
-- [Kürbiskernöl](https://zagathou.github.io/tcm-fette/#kuerbiskernoel): Olea curcubita spec. Öl
-- [Leinöl](https://zagathou.github.io/tcm-fette/#leinoel): Olea linum usitatissimum Öl
-- [Maiskeimöl](https://zagathou.github.io/tcm-fette/#maiskeimoel): Zea mays, Öl
-- [Olivenöl, natives (kaltgepresst)](https://zagathou.github.io/tcm-fette/#olivenoel-natives-kaltgepresst): Olea europaea Öl
-- [Rapsöl](https://zagathou.github.io/tcm-fette/#rapsoel): Olea brassica napus Öl
-- [Sesamöl](https://zagathou.github.io/tcm-fette/#sesamoel): Sesamum indicum Öl
-- [Sojaöl](https://zagathou.github.io/tcm-fette/#sojaoel): Glycine hispida max.
-- [Sonnenblumenöl](https://zagathou.github.io/tcm-fette/#sonnenblumenoel): Olea helianthus annuus Öl
+- [BUTTER (KUH)](https://zagathou.github.io/tcm-fette/#butter-kuh)
+- [DISTELÖL](https://zagathou.github.io/tcm-fette/#disteloel): Olea carthamus tinktorius Öl
+- [KOKOSFETT](https://zagathou.github.io/tcm-fette/#kokosfett): Cocos nucifera (Fett)
+- [KÜRBISKERNÖL](https://zagathou.github.io/tcm-fette/#kuerbiskernoel): Olea curcubita spec. Öl
+- [LEINÖL](https://zagathou.github.io/tcm-fette/#leinoel): Olea linum usitatissimum Öl
+- [MAISKEIMÖL](https://zagathou.github.io/tcm-fette/#maiskeimoel): Zea mays, Öl
+- [OLIVENÖL, NATIVES (KALTGEPRESST)](https://zagathou.github.io/tcm-fette/#olivenoel-natives-kaltgepresst): Olea europaea Öl
+- [RAPSÖL](https://zagathou.github.io/tcm-fette/#rapsoel): Olea brassica napus Öl
+- [SESAMÖL](https://zagathou.github.io/tcm-fette/#sesamoel): Sesamum indicum Öl
+- [SOJAÖL](https://zagathou.github.io/tcm-fette/#sojaoel): Glycine hispida max.
+- [SONNENBLUMENÖL](https://zagathou.github.io/tcm-fette/#sonnenblumenoel): Olea helianthus annuus Öl
 
 ### Nüsse, Samen & Kerne (12)
 
-- [Baumnuss](https://zagathou.github.io/tcm-fette/#baumnuss): Juglans regia
-- [Cashewkerne](https://zagathou.github.io/tcm-fette/#cashewkerne): Anacardium occidentale
-- [Erdnuss](https://zagathou.github.io/tcm-fette/#erdnuss): Arachis hypogaea
-- [Haselnuss](https://zagathou.github.io/tcm-fette/#haselnuss): Corylus avellana
-- [Kokosnussfleisch](https://zagathou.github.io/tcm-fette/#kokosnussfleisch): Cocos nucifera
-- [Kürbiskerne](https://zagathou.github.io/tcm-fette/#kuerbiskerne): Cucurbita pepo (spezielle Sorten)
-- [Leinsamen](https://zagathou.github.io/tcm-fette/#leinsamen): Linum usitatissimum
-- [Mandeln](https://zagathou.github.io/tcm-fette/#mandeln): Prunus dulcis
-- [Pinienkerne](https://zagathou.github.io/tcm-fette/#pinienkerne): Pinus pinea
-- [Pistazie](https://zagathou.github.io/tcm-fette/#pistazie): Pistacia vera
-- [Sesam](https://zagathou.github.io/tcm-fette/#sesam): Sesamum indicum
-- [Sonnenblumenkerne](https://zagathou.github.io/tcm-fette/#sonnenblumenkerne): Helianthus annuus
+- [BAUMNUSS](https://zagathou.github.io/tcm-fette/#baumnuss): Juglans regia
+- [CASHEWKERNE](https://zagathou.github.io/tcm-fette/#cashewkerne): Anacardium occidentale
+- [ERDNUSS](https://zagathou.github.io/tcm-fette/#erdnuss): Arachis hypogaea
+- [HASELNUSS](https://zagathou.github.io/tcm-fette/#haselnuss): Corylus avellana
+- [KOKOSNUSSFLEISCH](https://zagathou.github.io/tcm-fette/#kokosnussfleisch): Cocos nucifera
+- [KÜRBISKERNE](https://zagathou.github.io/tcm-fette/#kuerbiskerne): Cucurbita pepo (spezielle Sorten)
+- [LEINSAMEN](https://zagathou.github.io/tcm-fette/#leinsamen): Linum usitatissimum
+- [MANDELN](https://zagathou.github.io/tcm-fette/#mandeln): Prunus dulcis
+- [PINIENKERNE](https://zagathou.github.io/tcm-fette/#pinienkerne): Pinus pinea
+- [PISTAZIE](https://zagathou.github.io/tcm-fette/#pistazie): Pistacia vera
+- [SESAM](https://zagathou.github.io/tcm-fette/#sesam): Sesamum indicum
+- [SONNENBLUMENKERNE](https://zagathou.github.io/tcm-fette/#sonnenblumenkerne): Helianthus annuus
 
 ### Fettreiche Früchte (3)
 
-- [Avocado](https://zagathou.github.io/tcm-fette/#avocado): Persea americana
-- [Olive, grün](https://zagathou.github.io/tcm-fette/#olive-gruen): Olea europaea
-- [Olive, schwarz](https://zagathou.github.io/tcm-fette/#olive-schwarz): Olea europaea
+- [AVOCADO](https://zagathou.github.io/tcm-fette/#avocado): Persea americana
+- [OLIVE, GRÜN](https://zagathou.github.io/tcm-fette/#olive-gruen): Olea europaea
+- [OLIVE, SCHWARZ](https://zagathou.github.io/tcm-fette/#olive-schwarz): Olea europaea
 
 ### Sonstige (1)
 
-- [Kokosmilch](https://zagathou.github.io/tcm-fette/#kokosmilch)
+- [KOKOSMILCH](https://zagathou.github.io/tcm-fette/#kokosmilch)
 
 ## Autor
 
@@ -57,14 +57,17 @@ Eine einzelne statische Seite (https://zagathou.github.io/tcm-fette/) mit 27 Fet
 - Session-ID: 055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173
 - Website: https://freyna.org/
 - GitHub: https://github.com/Zagathou
+- About: https://zagathou.github.io/zagathou/
 
 ## Weitere Seiten
 
-- [TCM Gewürze](https://zagathou.github.io/tcm-gewuerze/)
-- [TCM Proteine](https://zagathou.github.io/tcm-proteine/)
-- [TCM Kohlenhydrate](https://zagathou.github.io/tcm-kohlenhydrate/)
-- [TCM Heilkräuter](https://zagathou.github.io/tcm-heilkraeuter/)
+- [TCM GEWÜRZE](https://zagathou.github.io/tcm-gewuerze/)
+- [TCM PROTEINE](https://zagathou.github.io/tcm-proteine/)
+- [TCM KOHLENHYDRATE](https://zagathou.github.io/tcm-kohlenhydrate/)
+- [TCM HEILKRÄUTER](https://zagathou.github.io/tcm-heilkraeuter/)
 
 ## Quelle
 
-- [therapeutika.ch](https://www.therapeutika.ch/)
+- [THERAPEUTIKA.CH](https://www.therapeutika.ch/)
+
+Last Updated: 01.10.2026
